@@ -6,7 +6,10 @@
 ### 3장 _thymeleaf ###
 ### 4장 _security ###
 
-<img width="1083" height="618" alt="21" src="https://github.com/user-attachments/assets/b9db5baf-96ba-452f-a4e3-88afe58e3490" />
+
+
+
+<img width="1083" height="618" alt="21" src="https://github.com/user-attachments/assets/e01bf917-f437-4663-b4f4-c98173d05ada" />
 
 
 
